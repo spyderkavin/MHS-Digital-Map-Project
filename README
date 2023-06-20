@@ -1,3 +1,8 @@
 Andriod APK Version can be downloaded above. Just click and run using your phone!
 It will say that Google Playstore may not trust the app. Just click on continue and run the app. 
 Come back to this github  for app updates. There will be monthly updates at the very least but sometimes updates will come daily
+
+Update Log:-
+
+6/20/23:-
+Removed Andriod 14 Optimization for gradle build control
