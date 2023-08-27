@@ -24,9 +24,7 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings=mywebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
-        //Microsoft AppCenter
-        AppCenter.start(getApplication(), "8a4dd9b3-1eef-4a8b-813c-48b0e21fd80f",
-                Analytics.class, Crashes.class);
+
     }
     public class mywebClient extends WebViewClient {
         @Override
