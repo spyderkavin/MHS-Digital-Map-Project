@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MapboxSDKTest6</string>
+    <string name="app_name">MHS Map App Prototype 1</string>
     <string name="appSecret">8a4dd9b3-1eef-4a8b-813c-48b0e21fd80f</string>
+    <string name="image_link">https://lh5.googleusercontent.com/ivojjCBUGkckPKqaM8er8AsBSvdB8MCrYZCXNXawfnOSOlx24tBMG4HldCe0SbCvD9GrJinWxO32U_FGTDgfZ10</string>
 </resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974518498634",
+    "project_id": "mhsdigitalmapproject-72658",
+    "storage_bucket": "mhsdigitalmapproject-72658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974518498634:android:206b07ea045d405ee03db3",
+        "android_client_info": {
+          "package_name": "com.example.mapboxsdktest6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDafJq7AspQTsa0NS9NVgKD4nqrhlKJK98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
